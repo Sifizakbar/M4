@@ -221,9 +221,9 @@ int main() {
         printf("Strings are not same.\n");
     return 0;
 }
-
+```
 ## OUTPUT:
-Screenshot (46).png
+![alt text](<Screenshot (46).png>)
 
 ## RESULT:
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
